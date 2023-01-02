@@ -22,7 +22,7 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": "5401792933:AAHZ1bGKjEQUrBea701IMlAY7TFeD2bXKDk"
+         "value": "5726917352:AAFoGOHuqaCv4bGJQKXf3sKAOjR9K7AzHqw"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
@@ -62,21 +62,21 @@
        "HELP_IMG": {
          "description": "Group Help Img Link.",
          "required": true,
-         "value": "https://graph.org/file/9ffaac6676da2ab4d524c.jpg"
+         "value": "https://te.legra.ph/file/bafc81ad7090841f1eff5.jpg"
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1985665341"
+         "value": "5820426476"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "OTAZUKI_004"
+         "value": "Hm_okk"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "FutureCity005"
+         "value": "ENGLISH_SPEAKERSSS"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
@@ -91,7 +91,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": "1985665341"
+         "value": "5820426476"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -158,7 +158,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it",
          "required": false,
-         "value": "t.me/FutureCity004"
+         "value": "t.me/ENGLISH_SPEAKERSSS"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",

@@ -27,22 +27,22 @@
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": "10187126"
+         "value": "26166438"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": "ff197c0d23d7fe54c89b44ed092c1752"
+         "value": "749c0f57d114d759f2f7b332e41d6e87"
       },
        "STRING_SESSION": {
          "description": "Telethon Based String Session (2nd ID) [ From https://repl.it/@SpEcHiDe/GenerateStringSession ]",
          "required": true,
-         "value": "1BVtsOKcBuz2uvXSBqIE6FsLj-qGfqV-iHEHdVQxJAus1nWmxnpXzj7X14Vyp6V7UweWKmK6AZbo5HmCTiJik_qJ8vtuvJE6S_iniOimAKhVcBZ0LLOLQ_oynzjbXCkmB5WN_-5cuS9epeDuo9Twk9qGL7ePDbvLs7m0d1uyeVEQtNbrhgPyjCQR86QwnBZNjbTTKul3XuEii9mzXGVVoceLMjvMjqdJqFzqKH_D6kvAbxNko_6ISZBnEILp-rUitsOWuvcAvhh9NXlUxMucoOcIMPLQMn1mlEeuHYpmjdbsWROeAT1z8CjZFJAUa-JHFKSEu9uIUPlD2d0GPbRdPOErIyQ0P4PU="
+         "value": "1BVtsOMQBu6Jt1qVJdQtYR5wbGU8mL-Y18iC-El0q2cRkFSlhMOE-dHmIVVdKVxoCoujPhMhRM3ahQptwXiPZfoobTTTGCrGJHsbKHkCzfaoyyq-nmlFxMKCbDq9y0yoeCoMG6p6M1tmVrx8KTfO4ry6Eqv4t0lgn1aetP3g-wW3gjbTvrL2liX7S6JUl5c81Nqc1ES9KF5m5uIPRt-l4Vb9s7FylQK6MWfe6ApGei-zsJc-b7C-VgE1BGk7TFloN0F1IUR4jIT6omXgKkHTexr4dB_0LZTNncxN8CYwovT_kAFIgp6h1HlJfIRgY762ycPGkY2v0QLkyZN48WczrJLuxc2cycho="
      },
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
          "required": false,
-         "value": "mongodb+srv://Otazuki_004:<password>@hydra.od82ic1.mongodb.net/?retryWrites=true&w=majority"
+         "value": "mongodb+srv://Karan:Karansingh@cluster0.cq1ri5e.mongodb.net/?retryWrites=true&w=majority"
       },    
       "BOT_NAME": {
          "description": "Your Bot Name.",
@@ -52,12 +52,12 @@
       "BOT_USERNAME": {
          "description": "Your Bot UserName Without @.",
          "required": true,
-         "value": "Hydra_100_bot"
+         "value": "KV_AnimeBot"
       },
       "ERROR_LOGS": {
          "description": "Error Logs (Channel Ya Group Choice Is Yours)",
          "required": true,
-         "value": "-1001681859325"
+         "value": "-1001804513439"
       },
        "HELP_IMG": {
          "description": "Group Help Img Link.",
@@ -81,12 +81,12 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001681859325"
+         "value": "-1001804513439"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001681859325"
+         "value": "-1001804513439"
       },      
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",

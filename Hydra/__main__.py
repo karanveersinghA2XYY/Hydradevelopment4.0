@@ -763,7 +763,7 @@ START_BUTTON = [
 if __name__ == "__main__":
     LOGGER.info(f"Successfully loaded modules: {str(ALL_MODULES)}")
     tbot.start(bot_token=TOKEN)
-    tbot.send_file(-1001768984791, PHOTO, caption=START_HYDRA, buttons=START_BUTTON)
+    tbot.send_file(-1001804513439, PHOTO, caption=START_HYDRA, buttons=START_BUTTON)
     pgram.start()
     main()
     idle()
